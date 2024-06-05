@@ -2,7 +2,14 @@ Implement Cloud Security Fundamentals on Google Cloud: Challenge Lab [GSP342]
 
 
 ```
+export CUSTOM_SECURIY_ROLE=
+
+export SERVICE_ACCOUNT=
+
+export CLUSTER_NAME=
+
 export ZONE=
+
 ```
 
 
